@@ -1,2 +1,3 @@
 # LearningDemo
-This is for learning purpose
+This is for learning purpose.
+Instructor : apna college
